@@ -1,1 +1,0 @@
-import{q as s,_ as e,b as o,o as t,e as c}from"./5KDAil0K.js";const n=s("/logo.png"),_={},r=c("img",{src:n},null,-1),a=[r];function l(i,p){return t(),o("div",null,a)}const u=e(_,[["render",l]]);export{u as default};
